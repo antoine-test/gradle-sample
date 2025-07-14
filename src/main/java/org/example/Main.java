@@ -5,5 +5,6 @@ public class Main {
     System.out.println("Hello crazy world!");
     // what am I doing with my life?
     // I still don't know
+    // Does the comment get replaced?
   }
 }
